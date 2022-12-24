@@ -1,16 +1,7 @@
-# dictionary_program2
+# Dictionary_Program
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/121254411/209447906-0df49e6e-e7c6-4e07-9cc5-28038afa4b03.png)
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/121254411/209447917-e1e7e83f-8891-4c3b-8ea8-d67bd271d144.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
