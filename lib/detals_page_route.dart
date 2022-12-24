@@ -7,6 +7,7 @@ import 'muduls_data.dart';
 class DetalsPages extends StatefulWidget {
   final MudulasData mudulasData;
 
+
   const DetalsPages({Key? key, required this.mudulasData}) : super(key: key);
 
   @override
